@@ -1,19 +1,21 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int>m;
-        //index value
-        vector<int>ans;
-        for(int i=0;i<nums.size();i++){
-            int r=target-nums[i];
-            if(m.find(r)!=m.end()){
-                //hum hamesha key hi search karte hain in hashtables
-                //foudn in hashtable
-                ans.push_back(i);
-                ans.push_back(m[r]);
+    vector<int> twoSum(vector<int>& n, int t) {
+        unordered_map<int,int>Map;
+        //khaali map banaya
+        for(int i=0;i<n.size();i++){
+            int c=t-n[i];
+            //c is the complement here
+            //ab complement ko map me dhoondho  , how?? with count()
+            if(Map.count(c)){
+                // complement hai map me 
+                return { Map[c],i};
             }
-            m.insert({nums[i],i});
+            //mtlb complemet map me nhi hai toh iska mtlb current value ko map me daaldo
+            Map[n[i]]=i;
+            //order hai (value of element, index)
         }
-        return ans;
+        return {};
+        // koi bhi 2 num ka sum target ke equal nhi hoga toh empty vector return kardo
     }
 };
