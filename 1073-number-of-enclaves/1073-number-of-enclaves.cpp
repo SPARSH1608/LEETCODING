@@ -14,6 +14,30 @@ class Solution {
             }
         }
     }
+
+
+    void bfs(int r, int c , vector<vector<int>>&vis , vector<vector<int>>&grid){
+        vis[r][c]=1;
+        int n=grid.size();
+        int m=grid[0].size();
+        queue<pair<int,int>>q;
+        q.push({r,c});
+        while(!q.empty()){
+            int row=q.front().first;
+            int col=q.front().second;
+            q.pop();
+            int delR[]={-1,0,1,0};
+            int delC[]={0,1,0,-1};
+            for(int i=0;i<4;i++){
+                int nr=row+delR[i];
+                int nc=col+delC[i];
+                if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc] && grid[nr][nc]==1){
+                    q.push({nr,nc});
+                    vis[nr][nc]=1;
+                }
+            }
+        }
+    }
 public:
     int numEnclaves(vector<vector<int>>& grid) {
       
@@ -23,20 +47,27 @@ public:
 
 for(int i=0;i<n;i++){
     if(!vis[i][0] && grid[i][0]==1){
-        dfs(i,0,vis,grid);
+        // dfs(i,0,vis,grid);
+        bfs(i,0,vis,grid);
+
     }
 
     if(!vis[i][m-1] && grid[i][m-1]==1){
-        dfs(i,m-1,vis,grid);
+        // dfs(i,m-1,vis,grid);
+        bfs(i,m-1,vis,grid);
+
     }
 }
 for(int j=0;j<m;j++){
     if(!vis[0][j] && grid[0][j]==1){
-        dfs(0,j,vis,grid);
+        // dfs(0,j,vis,grid);
+        bfs(0,j,vis,grid);
     }
 
     if(!vis[n-1][j] && grid[n-1][j]==1){
-        dfs(n-1,j,vis,grid);
+        // dfs(n-1,j,vis,grid);
+        bfs(n-1,j,vis,grid);
+
     }
 }
 int count=0;
