@@ -1,17 +1,18 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        unordered_map<int,vector<int>>m;
+        set<pair<int,int>>v;
+        map<int,int>m;
         for(int i=0;i<nums.size();i++){
-            m[nums[i]].push_back(i);
+            m.insert(make_pair(i,nums[i]));
         }
-        int count=0;
-        for(pair p :m){
-            if(p.second.size()>1){
-                int s=p.second.size();
-                count+=s*(s-1)/2;
-            }
+        for(int i=0;i<nums.size();i++){
+            for(pair p : m){
+                if(p.second==nums[i] && p.first!=i){
+                        v.insert({i,p.first});
+                }
+            } 
         }
-        return count;
+        return v.size()/2;
     }
 };
