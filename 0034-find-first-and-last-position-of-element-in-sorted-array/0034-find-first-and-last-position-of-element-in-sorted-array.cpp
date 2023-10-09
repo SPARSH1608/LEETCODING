@@ -1,19 +1,25 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> arr(2, -1); // Initialize the result array with [-1, -1]
-         int n = nums.size();
-         int count = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == target) {
-                count++;
-                arr[1] = i; 
-                arr[0] = i - (count - 1); 
+        int l=0,r=nums.size()-1;
+        int first=-1,last=-1;
+        while(l<=r){
+            int m=l+(r-l)/2;
+            if(nums[m]==target){
+                first=m;
+                last=m;
+                while(first>0 && nums[first-1]==target){
+                    first--;
+                }
+                while(last<nums.size()-1 && nums[last+1]==target){
+                    last++;
+                }break;
+            }else if(nums[m]<target){
+                l=m+1;
+            }else{
+                r=m-1;
             }
         }
-        
-        return arr;
-        
+        return {first,last};
     }
 };
