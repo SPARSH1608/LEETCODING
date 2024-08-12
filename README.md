@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/SPARSH1608/LEETCODING/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
+| [0907-koko-eating-bananas](https://github.com/SPARSH1608/LEETCODING/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/SPARSH1608/LEETCODING/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPARSH1608/LEETCODING/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/SPARSH1608/LEETCODING/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPARSH1608/LEETCODING/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
