@@ -100,10 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -115,5 +117,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SPARSH1608/LEETCODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
