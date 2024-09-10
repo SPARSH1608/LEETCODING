@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SPARSH1608/LEETCODING/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
