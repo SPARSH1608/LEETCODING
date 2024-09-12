@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SPARSH1608/LEETCODING/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPARSH1608/LEETCODING/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/SPARSH1608/LEETCODING/tree/master/1646-kth-missing-positive-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPARSH1608/LEETCODING/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SPARSH1608/LEETCODING/tree/master/2155-find-missing-observations) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SPARSH1608/LEETCODING/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SPARSH1608/LEETCODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SPARSH1608/LEETCODING/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SPARSH1608/LEETCODING/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -145,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SPARSH1608/LEETCODING/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
