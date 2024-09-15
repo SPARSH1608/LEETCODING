@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SPARSH1608/LEETCODING/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SPARSH1608/LEETCODING/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPARSH1608/LEETCODING/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPARSH1608/LEETCODING/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPARSH1608/LEETCODING/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SPARSH1608/LEETCODING/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPARSH1608/LEETCODING/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
