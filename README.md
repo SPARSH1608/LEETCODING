@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SPARSH1608/LEETCODING/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/SPARSH1608/LEETCODING/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [2155-find-missing-observations](https://github.com/SPARSH1608/LEETCODING/tree/master/2155-find-missing-observations) |
@@ -179,4 +181,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPARSH1608/LEETCODING/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
