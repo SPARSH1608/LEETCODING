@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/SPARSH1608/LEETCODING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SPARSH1608/LEETCODING/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/SPARSH1608/LEETCODING/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/SPARSH1608/LEETCODING/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SPARSH1608/LEETCODING/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
