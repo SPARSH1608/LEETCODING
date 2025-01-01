@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SPARSH1608/LEETCODING/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SPARSH1608/LEETCODING/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SPARSH1608/LEETCODING/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SPARSH1608/LEETCODING/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/SPARSH1608/LEETCODING/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPARSH1608/LEETCODING/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SPARSH1608/LEETCODING/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPARSH1608/LEETCODING/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
