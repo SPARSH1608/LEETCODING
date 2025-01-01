@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SPARSH1608/LEETCODING/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1078-remove-outermost-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/1078-remove-outermost-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SPARSH1608/LEETCODING/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SPARSH1608/LEETCODING/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -263,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SPARSH1608/LEETCODING/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
