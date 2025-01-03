@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/SPARSH1608/LEETCODING/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SPARSH1608/LEETCODING/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/SPARSH1608/LEETCODING/tree/master/0179-largest-number) |
+| [0485-max-consecutive-ones](https://github.com/SPARSH1608/LEETCODING/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
