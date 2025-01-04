@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SPARSH1608/LEETCODING/tree/master/0222-count-complete-tree-nodes) |
 | [0907-koko-eating-bananas](https://github.com/SPARSH1608/LEETCODING/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/SPARSH1608/LEETCODING/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SPARSH1608/LEETCODING/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -204,14 +205,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SPARSH1608/LEETCODING/tree/master/0222-count-complete-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SPARSH1608/LEETCODING/tree/master/0222-count-complete-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SPARSH1608/LEETCODING/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPARSH1608/LEETCODING/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SPARSH1608/LEETCODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
