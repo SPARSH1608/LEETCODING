@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/SPARSH1608/LEETCODING/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SPARSH1608/LEETCODING/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SPARSH1608/LEETCODING/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SPARSH1608/LEETCODING/tree/master/2155-find-missing-observations) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/SPARSH1608/LEETCODING/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SPARSH1608/LEETCODING/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Depth-First Search
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SPARSH1608/LEETCODING/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
