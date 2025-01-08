@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SPARSH1608/LEETCODING/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SPARSH1608/LEETCODING/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SPARSH1608/LEETCODING/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SPARSH1608/LEETCODING/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SPARSH1608/LEETCODING/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPARSH1608/LEETCODING/tree/master/2232-adding-spaces-to-a-string) |
 | [2465-shifting-letters-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/2465-shifting-letters-ii) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/SPARSH1608/LEETCODING/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/SPARSH1608/LEETCODING/tree/master/0409-longest-palindrome) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SPARSH1608/LEETCODING/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
