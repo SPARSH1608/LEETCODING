@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SPARSH1608/LEETCODING/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/SPARSH1608/LEETCODING/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/SPARSH1608/LEETCODING/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SPARSH1608/LEETCODING/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/SPARSH1608/LEETCODING/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPARSH1608/LEETCODING/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPARSH1608/LEETCODING/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/SPARSH1608/LEETCODING/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/SPARSH1608/LEETCODING/tree/master/0409-longest-palindrome) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SPARSH1608/LEETCODING/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -325,4 +328,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SPARSH1608/LEETCODING/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
