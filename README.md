@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/SPARSH1608/LEETCODING/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
+| [0822-unique-morse-code-words](https://github.com/SPARSH1608/LEETCODING/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SPARSH1608/LEETCODING/tree/master/0906-walking-robot-simulation) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SPARSH1608/LEETCODING/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
+| [0822-unique-morse-code-words](https://github.com/SPARSH1608/LEETCODING/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SPARSH1608/LEETCODING/tree/master/0906-walking-robot-simulation) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SPARSH1608/LEETCODING/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
+| [0822-unique-morse-code-words](https://github.com/SPARSH1608/LEETCODING/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SPARSH1608/LEETCODING/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/1078-remove-outermost-parentheses) |
