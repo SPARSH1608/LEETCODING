@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/SPARSH1608/LEETCODING/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/SPARSH1608/LEETCODING/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SPARSH1608/LEETCODING/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/SPARSH1608/LEETCODING/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPARSH1608/LEETCODING/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SPARSH1608/LEETCODING/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SPARSH1608/LEETCODING/tree/master/2308-divide-array-into-equal-pairs) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/SPARSH1608/LEETCODING/tree/master/0409-longest-palindrome) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SPARSH1608/LEETCODING/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/SPARSH1608/LEETCODING/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
