@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/SPARSH1608/LEETCODING/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/SPARSH1608/LEETCODING/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/SPARSH1608/LEETCODING/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/SPARSH1608/LEETCODING/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/SPARSH1608/LEETCODING/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/SPARSH1608/LEETCODING/tree/master/0561-array-partition) |
 | [1256-rank-transform-of-an-array](https://github.com/SPARSH1608/LEETCODING/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPARSH1608/LEETCODING/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPARSH1608/LEETCODING/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/SPARSH1608/LEETCODING/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/SPARSH1608/LEETCODING/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/SPARSH1608/LEETCODING/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/1502-construct-k-palindrome-strings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SPARSH1608/LEETCODING/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/SPARSH1608/LEETCODING/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
