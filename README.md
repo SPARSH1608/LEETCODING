@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/SPARSH1608/LEETCODING/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/SPARSH1608/LEETCODING/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SPARSH1608/LEETCODING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SPARSH1608/LEETCODING/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SPARSH1608/LEETCODING/tree/master/0118-pascals-triangle) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SPARSH1608/LEETCODING/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SPARSH1608/LEETCODING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SPARSH1608/LEETCODING/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/SPARSH1608/LEETCODING/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/SPARSH1608/LEETCODING/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SPARSH1608/LEETCODING/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SPARSH1608/LEETCODING/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
