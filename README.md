@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SPARSH1608/LEETCODING/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/SPARSH1608/LEETCODING/tree/master/2154-minimum-moves-to-convert-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SPARSH1608/LEETCODING/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SPARSH1608/LEETCODING/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/SPARSH1608/LEETCODING/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SPARSH1608/LEETCODING/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/2465-shifting-letters-ii) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SPARSH1608/LEETCODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/SPARSH1608/LEETCODING/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SPARSH1608/LEETCODING/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SPARSH1608/LEETCODING/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/SPARSH1608/LEETCODING/tree/master/1078-remove-outermost-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SPARSH1608/LEETCODING/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Interactive
 |  |
 | ------- |
