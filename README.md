@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SPARSH1608/LEETCODING/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/SPARSH1608/LEETCODING/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SPARSH1608/LEETCODING/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SPARSH1608/LEETCODING/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SPARSH1608/LEETCODING/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/SPARSH1608/LEETCODING/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-count-common-words-with-one-occurrence](https://github.com/SPARSH1608/LEETCODING/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SPARSH1608/LEETCODING/tree/master/2308-divide-array-into-equal-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/SPARSH1608/LEETCODING/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
