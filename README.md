@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SPARSH1608/LEETCODING/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SPARSH1608/LEETCODING/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SPARSH1608/LEETCODING/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/SPARSH1608/LEETCODING/tree/master/1524-string-matching-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SPARSH1608/LEETCODING/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/SPARSH1608/LEETCODING/tree/master/1646-kth-missing-positive-number) |
@@ -149,10 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SPARSH1608/LEETCODING/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SPARSH1608/LEETCODING/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Two Pointers
 |  |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SPARSH1608/LEETCODING/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -389,4 +394,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/SPARSH1608/LEETCODING/tree/master/0506-relative-ranks) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
