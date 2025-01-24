@@ -1,57 +1,38 @@
 class Solution {
-    //false mtlb we have a cycle
-    private:
-    bool dfs(int node ,vector<int>&vis, vector<int>&pathVis, vector<int>adj[], vector<int>&check){
-        vis[node]=1;
-        pathVis[node]=1;
-        check[node]=0;
-        for(int it:adj[node]){
-            if(!vis[it]){
-                if(dfs(it,vis,pathVis,adj,check)==false){
-                    //agar cycle hai
-                        check[node]=0;
-                    return false;
-                }
-        }else if(pathVis[it]==1){
-                  check[node]=0;
-            return false;
-        }
-
-    }
-    check[node]=1;
-    pathVis[node]=0;
-    return true;
-    }
-
 public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n=graph.size();
-
-vector<int>adj[n];
-for(int i=0;i<n;i++){
-    for(auto it:graph[i]){
-        adj[i].push_back(it);
-    }
-}
-vector<int>check(n,0);
-
-        vector<int>vis(n,0);
-        vector<int>pathVis(n,0);
-        vector<int>ans;
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,vis,pathVis,adj,check);
-                   
-                
+    int n;
+    vector<int> degreein;
+    vector< vector<int> > rGraph;
+    vector<int> ans;
+    
+    void init(vector<vector<int>>& G){
+        n = G.size();
+        degreein = vector<int>(n,0);
+        rGraph.resize(n, vector<int>(0) );
+        
+        for (int u=0; u<n; u++){
+            for (int v:G[u]){
+                rGraph[v].push_back(u);
+                degreein[u]++;
             }
         }
-    for(int i=0;i<n;i++){
-        if(check[i]==1){
-            ans.push_back(i);
-        }
     }
-
+    
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        init(graph);
+        queue<int> que;
+        for (int i=0; i<n; i++){
+            if (degreein[i]==0) que.push(i);
+        }
+        while (que.size()){
+            int u = que.front(); que.pop();
+            ans.push_back(u);
+            for (int v:rGraph[u]){
+                degreein[v]--;
+                if (degreein[v]==0) que.push(v);
+            }
+        }
+        sort(ans.begin(),ans.end());
         return ans;
-
     }
 };
