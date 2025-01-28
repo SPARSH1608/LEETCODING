@@ -1,26 +1,40 @@
 class Solution {
 public:
-    int exploreRegion(int row, int col, vector<vector<int>>& grid) {
-        int rows = grid.size(), cols = grid[0].size();
-        if (row < 0 || col < 0 || row >= rows || col >= cols || grid[row][col] == 0) return 0;
-        int currentFish = grid[row][col];
-        grid[row][col] = 0;
-        currentFish += exploreRegion(row + 1, col, grid);
-        currentFish += exploreRegion(row - 1, col, grid);
-        currentFish += exploreRegion(row, col + 1, grid);
-        currentFish += exploreRegion(row, col - 1, grid);
-        return currentFish;
-    }
-
-    int findMaximumFish(vector<vector<int>>& grid) {
-        int rows = grid.size(), cols = grid[0].size(), maxFish = 0;
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                if (grid[row][col] != 0) {
-                    maxFish = max(maxFish, exploreRegion(row, col, grid));
-                }
-            }
+    int dfs(vector<vector<int>>& grid,vector<vector<int>>& visited, int r, int c, int delR[], int delC[], int Fans){
+        visited[r][c]=-1; //-1 is visited
+ int count = grid[r][c];
+        int n=grid.size();
+        int m=grid[0].size();
+        for(int i=0;i<4;i++){
+         int nr=r+delR[i];
+        int nc=c+delC[i];
+        if(nr>=0 && nr<n && nc>=0 && nc<m && visited[nr][nc]!=-1 && grid[nr][nc]>0 ){
+     count = count + dfs(grid, visited, nr, nc, delR, delC, Fans);
         }
-        return maxFish;
+            
+        }     
+        Fans = max(Fans, count);
+ 
+        
+        return Fans;
+    }
+    int findMaxFish(vector<vector<int>>& grid) {  
+        int n=grid.size();
+        int m=grid[0].size();
+       vector<vector<int>> visited(n, vector<int>(m, 0));
+      int ans=0;
+        
+        int delR[]={-1,0,1,0};
+        int delC[]={0,1,0,-1};
+   for(int i=0;i<n;i++){
+       for(int j=0;j<m;j++){
+           if(grid[i][j]!=0){
+                ans=max(ans,dfs(grid,visited,i,j,delR, delC,0));
+           }
+       
+       }
+   }
+    return ans;
+      
     }
 };
