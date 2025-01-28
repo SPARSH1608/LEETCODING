@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SPARSH1608/LEETCODING/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SPARSH1608/LEETCODING/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SPARSH1608/LEETCODING/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SPARSH1608/LEETCODING/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SPARSH1608/LEETCODING/tree/master/2792-neighboring-bitwise-xor) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SPARSH1608/LEETCODING/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/SPARSH1608/LEETCODING/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SPARSH1608/LEETCODING/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SPARSH1608/LEETCODING/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/SPARSH1608/LEETCODING/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SPARSH1608/LEETCODING/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,11 +284,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/SPARSH1608/LEETCODING/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/SPARSH1608/LEETCODING/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/SPARSH1608/LEETCODING/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
