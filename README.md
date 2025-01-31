@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/SPARSH1608/LEETCODING/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/SPARSH1608/LEETCODING/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/SPARSH1608/LEETCODING/tree/master/0837-most-common-word) |
+| [0854-making-a-large-island](https://github.com/SPARSH1608/LEETCODING/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SPARSH1608/LEETCODING/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/SPARSH1608/LEETCODING/tree/master/0907-koko-eating-bananas) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/SPARSH1608/LEETCODING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SPARSH1608/LEETCODING/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/SPARSH1608/LEETCODING/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SPARSH1608/LEETCODING/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SPARSH1608/LEETCODING/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/SPARSH1608/LEETCODING/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/SPARSH1608/LEETCODING/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/SPARSH1608/LEETCODING/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/SPARSH1608/LEETCODING/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/SPARSH1608/LEETCODING/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/SPARSH1608/LEETCODING/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/SPARSH1608/LEETCODING/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/SPARSH1608/LEETCODING/tree/master/1484-linked-list-in-binary-tree) |
@@ -292,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SPARSH1608/LEETCODING/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/SPARSH1608/LEETCODING/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/SPARSH1608/LEETCODING/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/SPARSH1608/LEETCODING/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/2764-maximum-number-of-fish-in-a-grid) |
