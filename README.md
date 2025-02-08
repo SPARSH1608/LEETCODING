@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-count-common-words-with-one-occurrence](https://github.com/SPARSH1608/LEETCODING/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SPARSH1608/LEETCODING/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SPARSH1608/LEETCODING/tree/master/2308-divide-array-into-equal-pairs) |
+| [2434-design-a-number-container-system](https://github.com/SPARSH1608/LEETCODING/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/SPARSH1608/LEETCODING/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SPARSH1608/LEETCODING/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SPARSH1608/LEETCODING/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -452,10 +453,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/SPARSH1608/LEETCODING/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/SPARSH1608/LEETCODING/tree/master/0506-relative-ranks) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SPARSH1608/LEETCODING/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/SPARSH1608/LEETCODING/tree/master/2434-design-a-number-container-system) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/SPARSH1608/LEETCODING/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/SPARSH1608/LEETCODING/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SPARSH1608/LEETCODING/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/SPARSH1608/LEETCODING/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/SPARSH1608/LEETCODING/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
